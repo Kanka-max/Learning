@@ -4,7 +4,7 @@
 *From Github Repo*
 *From Local Drive*
 
-- This repository also includes research on **Satelitte Imagery**, **Machine Learning** and **Deep Learning*
+- This repository also includes research on **Satelitte Imagery**, **Machine Learning** and *Deep Learning*
 
 
-##### Jacques Patricks
+##### A Jacques Patricks Resource.
